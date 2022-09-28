@@ -1,0 +1,14 @@
+{
+    "batch_size": 32,
+    "epochs": 10,
+    "lr": 0.001,
+    "weight_decay": 0,
+    "log_interval": 200,
+    "cuda": true,
+    "seed": 20190408,
+    "hidden_size": 1024,
+    "z_size": 32,
+    "data_dir": "data/",
+    "reconstructions_save_path": "reconstructions/",
+    "save_path": "checkpoint/"
+}
